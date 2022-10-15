@@ -6,11 +6,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int Shapes::volume() {
+int Shapes::volume()
+{
     return length*breadth;
 }
 
-Shapes::Shapes(int length,int breadth) {
+Shapes::Shapes(int length,int breadth)
+{
     this->length = length;
     this->breadth = breadth;
 }

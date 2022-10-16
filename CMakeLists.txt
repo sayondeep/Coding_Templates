@@ -3,4 +3,4 @@ project(Coding_Templates)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Coding_Templates OA/Shapes.cpp OA/Shapes.h OA/Main.cpp)
+add_executable(Coding_Templates "OA/Navi-War Lane.cpp")

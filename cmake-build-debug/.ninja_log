@@ -1,6 +1,6 @@
 # ninja log v5
-1	155	6874522562677944	build.ninja	b505b29b1d075f01
-1128	1305	6874520679387667	Coding_Templates.exe	7ec1f7c2fdde459d
+1	155	6875962443610400	build.ninja	b505b29b1d075f01
+1140	1228	6874522892254635	Coding_Templates.exe	525b4e677af6a7b
 12	2152	6821254081117751	CMakeFiles/Coding_Templates.dir/Hello_World.cpp.obj	fc6d2555947ed442
 4	1203	6827082362915960	CMakeFiles/Coding_Templates.dir/Array/Segment_Tree.cpp.obj	2ae61278b4b902bb
 1	18	0	clean	2aef2209a9599d6
@@ -11,7 +11,7 @@
 5	128	6779168363148041	CMakeFiles/Coding_Templates.dir/Segment_Tree.cpp.obj	59fa462a099f5e5c
 5	1198	6780415151373859	CMakeFiles/Coding_Templates.dir/DSU.cpp.obj	24f3050008c2e44
 6	1595	6854692564142512	CMakeFiles/Coding_Templates.dir/Trie.cpp.obj	ef1ce9b6be6a860f
-6	1377	6874520475292213	CMakeFiles/Coding_Templates.dir/OA/Main.cpp.obj	60cf4c44d71b9940
+4	1140	6874522891417018	CMakeFiles/Coding_Templates.dir/OA/Main.cpp.obj	60cf4c44d71b9940
 0	2989	6780606434125968	CMakeFiles/Coding_Templates.dir/Kruskal's_Algorithm.cpp.obj	8ffc2f227f633183
 7	3282	6780791370895917	CMakeFiles/Coding_Templates.dir/Articulation_Point.cpp.obj	b7f99715bc2e7ae4
 0	2201	6781253240225378	CMakeFiles/Coding_Templates.dir/SCC(Kosaraju's_Algo).cpp.obj	b14fbe31483abac8
@@ -36,7 +36,9 @@
 5	1544	6873970360043793	CMakeFiles/Coding_Templates.dir/OA/Time_travell.cpp.obj	1e51799b99ea4719
 1	1862	6874520223138829	CMakeFiles/Coding_Templates.dir/OA/Navi-Time_travell.cpp.obj	4d2cbb4ace2bfe68
 4	1128	6874520677660805	CMakeFiles/Coding_Templates.dir/OA/Shapes.cpp.obj	266e0ed9c9d653cb
-5	1179	6874522668174230	CMakeFiles/Coding_Templates.dir/OA/Main.cpp.obj	60cf4c44d71b9940
-1180	1267	6874522669027066	Coding_Templates.exe	525b4e677af6a7b
-4	1140	6874522891417018	CMakeFiles/Coding_Templates.dir/OA/Main.cpp.obj	60cf4c44d71b9940
-1140	1228	6874522892254635	Coding_Templates.exe	525b4e677af6a7b
+1	1874	6875962825394175	CMakeFiles/Coding_Templates.dir/OA/Navi-War_Lane.cpp.obj	b91bfbc4962f88e4
+1881	2138	6875962828037283	Coding_Templates.exe	fab8121db051942
+6	1706	6875963776649785	CMakeFiles/Coding_Templates.dir/OA/Navi-War_Lane.cpp.obj	b91bfbc4962f88e4
+1707	1898	6875963778529852	Coding_Templates.exe	fab8121db051942
+8	1834	6875964670142637	CMakeFiles/Coding_Templates.dir/OA/Navi-War_Lane.cpp.obj	b91bfbc4962f88e4
+1834	2008	6875964671849292	Coding_Templates.exe	fab8121db051942

@@ -3,62 +3,72 @@
 //
 #include <bits/stdc++.h>
 using namespace std;
-
-int profit(int index,int txn,int k, vector<int>& prices,vector<vector<int>> &dp)
-{
-    int n = prices.size();
-    if(index==n || txn == 2*k)
-        return 0;
-
-    if(dp[index][txn]!=-1)
-        return dp[index][txn];
-
-    int max_profit= 0;
-    if(txn%2==0)
-    {
-        max_profit = max(-prices[index]+profit(index+1,txn+1,k,prices,dp),profit(index+1,txn,k,prices,dp));
-    }
-    else
-    {
-        max_profit = max(prices[index]+profit(index+1,txn+1,k,prices,dp),profit(index+1,txn,k,prices,dp));
-    }
-
-    return dp[index][txn]=max_profit;
-}
+//int profit(int index,int buy,int cap,vector<int>& prices,vector<vector<vector<int>>> &dp)
+//{
+//    int n= prices.size();
+//    if(index==n || cap==0)
+//        return 0;
+//
+//    if(dp[index][buy][cap]!=-1)
+//        return dp[index][buy][cap];
+//
+//    int max_profit=INT_MIN;
+//    if(buy)
+//    {
+//        int buy_now = -prices[index]+profit(index+1,0,cap,prices,dp);
+//        int buy_later = profit(index+1,1,cap,prices,dp);
+//
+//        max_profit = max({max_profit,buy_now,buy_later});
+//    }
+//
+//    else
+//    {
+//        int sell_now = prices[index]+profit(index+1,1,cap-1,prices,dp);
+//
+//        int sell_later = profit(index+1,0,cap,prices,dp);
+//
+//        max_profit = max({max_profit,sell_now,sell_later});
+//
+//    }
+//
+//    return dp[index][buy][cap]=max_profit;
+//
+//}
 int maxProfit(int k, vector<int>& prices)
 {
     int n = prices.size();
+    int dp[n+1][2][k+1];
 
-//         vector<vector<int>> dp(n,(vector<int>(2*k,-1)));
+    memset(dp,0,sizeof(dp));
 
-//         return profit(0,0,k,prices,dp);
-
-    vector<vector<int>> dp(n+1,(vector<int>(2*k+1,0)));
-
-    for(int index=n-1;index>=0;index--)
+    for(int ind = n-1;ind>=0;ind--)
     {
-        for(int txn=0;txn<2*k;txn++)
+        for(int buy = 0;buy<=1;buy++)
         {
-            int max_profit= 0;
-            if(txn%2==0)
+            for(int cap=1;cap<=k;cap++)
             {
-                max_profit = max(-prices[index]+profit(index+1,txn+1,k,prices,dp),profit(index+1,txn,k,prices,dp));
-            }
-            else
-            {
-                max_profit = max(prices[index]+profit(index+1,txn+1,k,prices,dp),profit(index+1,txn,k,prices,dp));
-            }
+                int profit = 0;
 
-            dp[index][txn]=max_profit;
+
+                if(buy)
+                    profit = max(-prices[ind]+dp[ind+1][0][cap],dp[ind+1][1][cap]);
+
+                else
+                    profit = max(prices[ind]+dp[ind+1][1][cap-1],dp[ind+1][0][cap]);
+
+                dp[ind][buy][cap] = max(profit,dp[ind][buy][cap]);
+            }
         }
-
     }
 
 
-    return dp[0][0];
 
+
+
+
+
+    return dp[0][1][k];
 }
-
 int main()
 {
     int t;
@@ -75,5 +85,9 @@ int main()
         }
 
         cout<<maxProfit(k,prices)<<endl;
+
+
+//        vector<vector<vector<int>>> dp(n,vector<vector<int>>(2,vector<int>(k+1,-1)));
+//        return profit(0,1,k,prices,dp);
     }
 }

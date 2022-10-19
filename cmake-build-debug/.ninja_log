@@ -1,6 +1,6 @@
 # ninja log v5
-1	155	6875993821390804	build.ninja	b505b29b1d075f01
-1834	2008	6875964671849292	Coding_Templates.exe	fab8121db051942
+2	325	6878903429533356	build.ninja	b505b29b1d075f01
+1284	1439	6877362862873279	Coding_Templates.exe	d9d90180443e1bdb
 4	1203	6827082362915960	CMakeFiles/Coding_Templates.dir/Array/Segment_Tree.cpp.obj	2ae61278b4b902bb
 1	18	0	clean	2aef2209a9599d6
 12	2152	6821254081117751	CMakeFiles/Coding_Templates.dir/Hello_World.cpp.obj	fc6d2555947ed442
@@ -35,14 +35,17 @@
 7	1764	6849143962227255	CMakeFiles/Coding_Templates.dir/Array/Range_Minimum.cpp.obj	c7352c727c5a6587
 5	1544	6873970360043793	CMakeFiles/Coding_Templates.dir/OA/Time_travell.cpp.obj	1e51799b99ea4719
 1	1862	6874520223138829	CMakeFiles/Coding_Templates.dir/OA/Navi-Time_travell.cpp.obj	4d2cbb4ace2bfe68
+10	1677	6875999662960748	CMakeFiles/Coding_Templates.dir/OA/Navi-Brock_and_Stock.cpp.obj	49bebf1aa8850e25
 4	1128	6874520677660805	CMakeFiles/Coding_Templates.dir/OA/Shapes.cpp.obj	266e0ed9c9d653cb
 8	1834	6875964670142637	CMakeFiles/Coding_Templates.dir/OA/Navi-War_Lane.cpp.obj	b91bfbc4962f88e4
-2	325	6875993821390804	build.ninja	b505b29b1d075f01
-1	2522	6875994764544433	CMakeFiles/Coding_Templates.dir/OA/Navi-Brock_and_Stock.cpp.obj	49bebf1aa8850e25
-2523	2666	6875994765951627	Coding_Templates.exe	266c7e26180c209b
-16	2271	6875997258623165	CMakeFiles/Coding_Templates.dir/OA/Navi-Brock_and_Stock.cpp.obj	49bebf1aa8850e25
-7	205	6875997336981731	Coding_Templates.exe	266c7e26180c209b
-7	2010	6875998352009289	CMakeFiles/Coding_Templates.dir/OA/Navi-Brock_and_Stock.cpp.obj	49bebf1aa8850e25
-5	177	6875998390700817	Coding_Templates.exe	266c7e26180c209b
-10	1677	6875999662960748	CMakeFiles/Coding_Templates.dir/OA/Navi-Brock_and_Stock.cpp.obj	49bebf1aa8850e25
-11	259	6875999704333938	Coding_Templates.exe	266c7e26180c209b
+0	1282	6877362861337550	CMakeFiles/Coding_Templates.dir/OA/Phable_Care/Corrupted_Words.cpp.obj	82e2105350ab39cf
+0	1298	6878919610500599	CMakeFiles/Coding_Templates.dir/OA/Navi/Maximum_unity.cpp.obj	d32249b0e70046e7
+1300	1469	6878919612171374	Coding_Templates.exe	58c16bb3cc3c2542
+4	1297	6878921890238690	CMakeFiles/Coding_Templates.dir/OA/Navi/Maximum_unity.cpp.obj	d32249b0e70046e7
+1297	1392	6878921891154081	Coding_Templates.exe	58c16bb3cc3c2542
+3	1574	6878922674697800	CMakeFiles/Coding_Templates.dir/OA/Navi/Maximum_unity.cpp.obj	d32249b0e70046e7
+1575	1678	6878922675829124	Coding_Templates.exe	58c16bb3cc3c2542
+4	1222	6878923971384360	CMakeFiles/Coding_Templates.dir/OA/Navi/Maximum_unity.cpp.obj	d32249b0e70046e7
+1222	1317	6878923972288011	Coding_Templates.exe	58c16bb3cc3c2542
+4	1249	6878925612625073	CMakeFiles/Coding_Templates.dir/OA/Navi/Maximum_unity.cpp.obj	d32249b0e70046e7
+1249	1344	6878925613538427	Coding_Templates.exe	58c16bb3cc3c2542

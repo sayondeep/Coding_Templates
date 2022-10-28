@@ -3,4 +3,4 @@ project(Coding_Templates)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Coding_Templates OA/Navi/Maximum_unity.cpp)
+add_executable(Coding_Templates "OA/Intel/Replace X by M.cpp")

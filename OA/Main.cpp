@@ -6,9 +6,15 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+class Node
+{
+
+};
+
 int main()
 {
     Shapes* s = new Shapes(2,4);
     cout<<s->volume()<<endl;
+    cout<<sizeof(Node)<<endl;
 
 }

@@ -1,6 +1,6 @@
 # ninja log v5
-1	119	6893813623232250	build.ninja	b505b29b1d075f01
-1216	1312	6893599134551126	Coding_Templates.exe	4df1bf9b8a02789a
+1	119	6894132607885806	build.ninja	b505b29b1d075f01
+1196	1280	6893828302322363	Coding_Templates.exe	b98c736b93e1f9df
 12	2152	6821254081117751	CMakeFiles/Coding_Templates.dir/Hello_World.cpp.obj	fc6d2555947ed442
 4	1203	6827082362915960	CMakeFiles/Coding_Templates.dir/Array/Segment_Tree.cpp.obj	2ae61278b4b902bb
 1	9	0	clean	2aef2209a9599d6
@@ -46,25 +46,5 @@
 6	2085	6886315035283382	CMakeFiles/Coding_Templates.dir/OA/Blend_360/Prime_permutation.cpp.obj	ceaa2ff2ede0b0d2
 4	1216	6893599133628956	CMakeFiles/Coding_Templates.dir/OA/check.cpp.obj	2469ad300538af82
 6	1724	6892722829700508	CMakeFiles/Coding_Templates.dir/OA/Amazon/Pascal_Encryption.cpp.obj	41a91a977d898943
-6	1148	6893813542803186	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-4	97	6893813668087452	Coding_Templates.exe	b98c736b93e1f9df
-5	1205	6893814228701049	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-1205	1298	6893814229595450	Coding_Templates.exe	b98c736b93e1f9df
-4	1162	6893815370382679	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-1162	1253	6893815371265022	Coding_Templates.exe	b98c736b93e1f9df
-4	1173	6893815699309383	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-1173	1257	6893815700122634	Coding_Templates.exe	b98c736b93e1f9df
-4	1200	6893816921063723	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-1200	1291	6893816921951124	Coding_Templates.exe	b98c736b93e1f9df
-3	1168	6893818893433305	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-1168	1257	6893818894288882	Coding_Templates.exe	b98c736b93e1f9df
-4	1203	6893819296975552	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-1203	1288	6893819297793961	Coding_Templates.exe	b98c736b93e1f9df
-6	1212	6893826511150612	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-1212	1302	6893826512019734	Coding_Templates.exe	b98c736b93e1f9df
-4	1209	6893827482956347	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-1209	1305	6893827483885659	Coding_Templates.exe	b98c736b93e1f9df
-5	1189	6893827779018882	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-1189	1276	6893827779853063	Coding_Templates.exe	b98c736b93e1f9df
 4	1195	6893828301514009	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
-1196	1280	6893828302322363	Coding_Templates.exe	b98c736b93e1f9df
+5	131	6894132720858317	Coding_Templates.exe	6fda08dcd217a46b

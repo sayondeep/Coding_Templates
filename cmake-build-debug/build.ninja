@@ -49,11 +49,11 @@ cmake_ninja_workdir = D$:/Coding_Templates/cmake-build-debug/
 
 build cmake_object_order_depends_target_Coding_Templates: phony || CMakeFiles/Coding_Templates.dir
 
-build CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Intel/Replace$ X$ by$ M.cpp || cmake_object_order_depends_target_Coding_Templates
-  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Intel\Replace_X_by_M.cpp.obj.d
+build CMakeFiles/Coding_Templates.dir/OA/Blend_360/Prime_permutation.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Blend$ 360/Prime$ permutation.cpp || cmake_object_order_depends_target_Coding_Templates
+  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Blend_360\Prime_permutation.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Coding_Templates.dir
-  OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Intel
+  OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Blend_360
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj: CXX_COMPI
 #############################################
 # Link the executable Coding_Templates.exe
 
-build Coding_Templates.exe: CXX_EXECUTABLE_LINKER__Coding_Templates_Debug CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj
+build Coding_Templates.exe: CXX_EXECUTABLE_LINKER__Coding_Templates_Debug CMakeFiles/Coding_Templates.dir/OA/Blend_360/Prime_permutation.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Coding_Templates.dir

@@ -3,4 +3,4 @@ project(Coding_Templates)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Coding_Templates "OA/Blend 360/Prime permutation.cpp")
+add_executable(Coding_Templates OA/Intel/Calculator.cpp)

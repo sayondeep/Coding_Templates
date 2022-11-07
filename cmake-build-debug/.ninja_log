@@ -1,7 +1,8 @@
 # ninja log v5
-1	119	6894143918604673	build.ninja	b505b29b1d075f01
-5	131	6894132720858317	Coding_Templates.exe	6fda08dcd217a46b
+1	119	6895411582799964	build.ninja	b505b29b1d075f01
+1297	1387	6895351806195025	Coding_Templates.exe	fc1b6075c5312336
 12	2152	6821254081117751	CMakeFiles/Coding_Templates.dir/Hello_World.cpp.obj	fc6d2555947ed442
+0	1169	6895037388788396	CMakeFiles/Coding_Templates.dir/OA/Amazon/Alexa_temp_change.cpp.obj	9366887203dd3b7d
 4	1203	6827082362915960	CMakeFiles/Coding_Templates.dir/Array/Segment_Tree.cpp.obj	2ae61278b4b902bb
 1	9	0	clean	2aef2209a9599d6
 10	2156	6779168383259145	CMakeFiles/Coding_Templates.dir/Binary_Search.cpp.obj	69b994025d525c79
@@ -9,6 +10,8 @@
 4	1184	6779718562908617	CMakeFiles/Coding_Templates.dir/Fenwick_Tree.cpp.obj	4180c59911a4c58d
 4	1279	6780714691694013	CMakeFiles/Coding_Templates.dir/Bridge.cpp.obj	397f3496ee7dfe03
 5	128	6779168363148041	CMakeFiles/Coding_Templates.dir/Segment_Tree.cpp.obj	59fa462a099f5e5c
+4	1270	6894665950760717	CMakeFiles/Coding_Templates.dir/OA/Amazon/Prime_video_Sub.cpp.obj	f7dad76ccbea8e76
+6	1296	6895351805323113	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Purchase_Optimization.cpp.obj	2be3825f72988b43
 4	1249	6878925612625073	CMakeFiles/Coding_Templates.dir/OA/Navi/Maximum_unity.cpp.obj	d32249b0e70046e7
 5	1198	6780415151373859	CMakeFiles/Coding_Templates.dir/DSU.cpp.obj	24f3050008c2e44
 6	1595	6854692564142512	CMakeFiles/Coding_Templates.dir/Trie.cpp.obj	ef1ce9b6be6a860f
@@ -16,6 +19,7 @@
 0	2989	6780606434125968	CMakeFiles/Coding_Templates.dir/Kruskal's_Algorithm.cpp.obj	8ffc2f227f633183
 7	3282	6780791370895917	CMakeFiles/Coding_Templates.dir/Articulation_Point.cpp.obj	b7f99715bc2e7ae4
 0	2201	6781253240225378	CMakeFiles/Coding_Templates.dir/SCC(Kosaraju's_Algo).cpp.obj	b14fbe31483abac8
+4	1354	6894949545872951	CMakeFiles/Coding_Templates.dir/OA/Amazon/Package_Shipping.cpp.obj	34b30fc7b6ebd9f9
 4	1939	6782683847596178	CMakeFiles/Coding_Templates.dir/Prim's_Algo.cpp.obj	c648508a381e821e
 0	1292	6782684106737056	CMakeFiles/Coding_Templates.dir/Dijkstra's_Algo.cpp.obj	9892e5f7c5e16372
 0	1387	6783264952685365	CMakeFiles/Coding_Templates.dir/Shortest_path_in_unweighted_graph.cpp.obj	eadf5faf60d86f51
@@ -33,6 +37,7 @@
 1	1365	6820404411365768	CMakeFiles/Coding_Templates.dir/Graphs/0-1_BFS.cpp.obj	b02e0db3b89468c9
 5	1585	6821972003483757	CMakeFiles/Coding_Templates.dir/Floyd_Warshall.cpp.obj	e333cff20780d664
 5	1179	6822503691337738	CMakeFiles/Coding_Templates.dir/String_Matching/Z-Algorithm.cpp.obj	e1ee594d6c19f3a1
+4	1350	6894957762364559	CMakeFiles/Coding_Templates.dir/OA/Amazon/Word_search_subsequence.cpp.obj	8b98b650b82f9aa3
 7	1609	6837060441350630	CMakeFiles/Coding_Templates.dir/String_Matching/string_stream.cpp.obj	6fe2e1b7668d839f
 7	1764	6849143962227255	CMakeFiles/Coding_Templates.dir/Array/Range_Minimum.cpp.obj	c7352c727c5a6587
 5	1544	6873970360043793	CMakeFiles/Coding_Templates.dir/OA/Time_travell.cpp.obj	1e51799b99ea4719
@@ -48,4 +53,8 @@
 6	1724	6892722829700508	CMakeFiles/Coding_Templates.dir/OA/Amazon/Pascal_Encryption.cpp.obj	41a91a977d898943
 4	1195	6893828301514009	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
 4	2069	6894143797648104	CMakeFiles/Coding_Templates.dir/OA/Intel/Calculator.cpp.obj	7c294cf6f529f77f
-4	254	6894143964505495	Coding_Templates.exe	d543b0b1288c3747
+5	65	6895339825107329	CMakeFiles/Coding_Templates.dir/OA/Amazon/Keypad.cpp.obj	8914bd2eebbc600d
+0	1304	6895411615185333	CMakeFiles/Coding_Templates.dir/OA/Amazon/Keypad.cpp.obj	8914bd2eebbc600d
+1309	1463	6895411616745070	Coding_Templates.exe	52a018853aec372
+4	1455	6895414116151973	CMakeFiles/Coding_Templates.dir/OA/Amazon/Keypad.cpp.obj	8914bd2eebbc600d
+1455	1557	6895414117130346	Coding_Templates.exe	52a018853aec372

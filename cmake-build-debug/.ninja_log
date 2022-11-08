@@ -1,6 +1,6 @@
 # ninja log v5
-1	119	6896161582777288	build.ninja	b505b29b1d075f01
-1761	1963	6896138109241656	Coding_Templates.exe	d5b3a850558179fb
+1	119	6896305725655492	build.ninja	b505b29b1d075f01
+1384	1506	6896203761669293	Coding_Templates.exe	b199eb2b82baab24
 12	2152	6821254081117751	CMakeFiles/Coding_Templates.dir/Hello_World.cpp.obj	fc6d2555947ed442
 0	1169	6895037388788396	CMakeFiles/Coding_Templates.dir/OA/Amazon/Alexa_temp_change.cpp.obj	9366887203dd3b7d
 4	1203	6827082362915960	CMakeFiles/Coding_Templates.dir/Array/Segment_Tree.cpp.obj	2ae61278b4b902bb
@@ -54,22 +54,11 @@
 4	1216	6893599133628956	CMakeFiles/Coding_Templates.dir/OA/check.cpp.obj	2469ad300538af82
 6	1724	6892722829700508	CMakeFiles/Coding_Templates.dir/OA/Amazon/Pascal_Encryption.cpp.obj	41a91a977d898943
 4	1195	6893828301514009	CMakeFiles/Coding_Templates.dir/OA/Intel/Replace_X_by_M.cpp.obj	df10b8e3175a691f
+4	1384	6896203760478660	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Pythagorean_triplet.cpp.obj	7a9222753e6fa0b6
 4	2069	6894143797648104	CMakeFiles/Coding_Templates.dir/OA/Intel/Calculator.cpp.obj	7c294cf6f529f77f
 4	1232	6895516480822381	CMakeFiles/Coding_Templates.dir/OA/Amazon/Intern_Stock_price_review.cpp.obj	15477e0ab49395a0
 4	1455	6895414116151973	CMakeFiles/Coding_Templates.dir/OA/Amazon/Keypad.cpp.obj	8914bd2eebbc600d
 3	1249	6895952402040969	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Portfolio_backtesting.cpp.obj	168d5d6324bfbd25
 5	2469	6896126671952695	CMakeFiles/Coding_Templates.dir/OA/Amazon/Amazon_prime_games.cpp.obj	54f6a985cc2ffe78
-1	1412	6896197201368202	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Pythagorean_triplet.cpp.obj	7a9222753e6fa0b6
-1415	1550	6896197202720159	Coding_Templates.exe	b199eb2b82baab24
-4	1335	6896197761778697	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Pythagorean_triplet.cpp.obj	7a9222753e6fa0b6
-1335	1445	6896197762850902	Coding_Templates.exe	b199eb2b82baab24
-4	1371	6896199495615849	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Pythagorean_triplet.cpp.obj	7a9222753e6fa0b6
-1371	1494	6896199496801269	Coding_Templates.exe	b199eb2b82baab24
-4	1774	6896201709565912	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Pythagorean_triplet.cpp.obj	7a9222753e6fa0b6
-1774	1897	6896201710756743	Coding_Templates.exe	b199eb2b82baab24
-3	1378	6896202939137995	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Pythagorean_triplet.cpp.obj	7a9222753e6fa0b6
-1379	1495	6896202940272291	Coding_Templates.exe	b199eb2b82baab24
-4	1413	6896203335070813	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Pythagorean_triplet.cpp.obj	7a9222753e6fa0b6
-1413	1536	6896203336278254	Coding_Templates.exe	b199eb2b82baab24
-4	1384	6896203760478660	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Pythagorean_triplet.cpp.obj	7a9222753e6fa0b6
-1384	1506	6896203761669293	Coding_Templates.exe	b199eb2b82baab24
+0	1157	6896305861031458	CMakeFiles/Coding_Templates.dir/OA/Amazon/substring_score.cpp.obj	989c29c3b5c6f6f
+1162	1251	6896305861928103	Coding_Templates.exe	d0d2de7b749a4188

@@ -3,4 +3,4 @@ project(Coding_Templates)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Coding_Templates "OA/BNY Mellon/Pythagorean triplet.cpp")
+add_executable(Coding_Templates "OA/Amazon/substring score.cpp")

@@ -1,7 +1,7 @@
 # ninja log v5
-1	119	6905533545609284	build.ninja	b505b29b1d075f01
+1	119	6905536651252851	build.ninja	b505b29b1d075f01
 4	1228	6899476359631680	CMakeFiles/Coding_Templates.dir/bst_number.cpp.obj	ad942c8acb0d7986
-1310	1407	6905512433314692	Coding_Templates.exe	739ff090e9b6f7d9
+1582	1694	6905534704848480	Coding_Templates.exe	a7779efcdf29e188
 12	2152	6821254081117751	CMakeFiles/Coding_Templates.dir/Hello_World.cpp.obj	fc6d2555947ed442
 0	1169	6895037388788396	CMakeFiles/Coding_Templates.dir/OA/Amazon/Alexa_temp_change.cpp.obj	9366887203dd3b7d
 4	1203	6827082362915960	CMakeFiles/Coding_Templates.dir/Array/Segment_Tree.cpp.obj	2ae61278b4b902bb
@@ -66,14 +66,8 @@
 4	1278	6900440992626969	CMakeFiles/Coding_Templates.dir/OA/Razorpay/school_renovation.cpp.obj	935746994127afac
 6	1155	6903320059367759	CMakeFiles/Coding_Templates.dir/OA/check2.cpp.obj	274c741de01f64f9
 4	1439	6904134374482427	CMakeFiles/Coding_Templates.dir/OA/check3.cpp.obj	fc4805bde0887ce5
-4	1757	6905480234971662	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/sq_and_rect.cpp.obj	1ee9a42b65938f7f
+5	1582	6905534703766732	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/sq_and_rect.cpp.obj	1ee9a42b65938f7f
 3	1128	6905494825009738	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/smallest_common_substring.cpp.obj	16bd314f4dd10a92
 3	1310	6905512432370516	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/separate_the_number.cpp.obj	956475716887c6eb
-0	1319	6905533585193134	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/sq_and_rect.cpp.obj	1ee9a42b65938f7f
-1323	1441	6905533586382735	Coding_Templates.exe	a7779efcdf29e188
-5	1363	6905533962313735	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/sq_and_rect.cpp.obj	1ee9a42b65938f7f
-1363	1473	6905533963390361	Coding_Templates.exe	a7779efcdf29e188
-4	1388	6905534205142988	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/sq_and_rect.cpp.obj	1ee9a42b65938f7f
-1388	1500	6905534206244593	Coding_Templates.exe	a7779efcdf29e188
-5	1582	6905534703766732	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/sq_and_rect.cpp.obj	1ee9a42b65938f7f
-1582	1694	6905534704848480	Coding_Templates.exe	a7779efcdf29e188
+0	1568	6905540849395746	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/sum_of_sub_arrays.cpp.obj	45986f15a0614740
+1572	1671	6905540850394403	Coding_Templates.exe	797366a13f38a2e1

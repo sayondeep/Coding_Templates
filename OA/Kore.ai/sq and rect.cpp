@@ -7,40 +7,36 @@ using namespace std;
 
 int square_rect (int n, vector<vector<int>>&arr)
 {
-
-    map<int,int> freq;
+    int ans=0;
+    vector<int> arr1;
     for(vector<int> v:arr)
     {
-        freq[v[0]]=v[1];
-    }
-    map<int,int> freq_2;
+        if (v[1] >= 2)
+        {
+            ans+= (v[0]*((v[1]/4)*4));
+            v[1]=v[1]%4;
+            if (v[1] >= 2)
+            {
 
-    for (auto i:freq)
-    {
-        if (freq[i.first] >= 2)
-            freq_2[i.first] = freq[i.first];
+                arr1.push_back(v[0] * (v[1]/2)*2);
+            }
+
+        }
     }
 
-    vector<int> arr1;
-    for (auto i:freq_2)
-        arr1.push_back((i.first) * ((freq_2[(i.first)]/2)*2));
     sort(arr1.rbegin(), arr1.rend());
 
+    int sz = arr1.size();
 
-    for(int e:arr1)
-        cout<<e<<" ";
-    cout<<endl;
+    if(sz&1)
+        sz--;
 
-    int summ = 0;
-    for (int i:arr1)
-        summ += i;
+    for (int i=0;i<sz;i++)
+        ans += arr1[i];
 
-    // Print the sum
+    cout << ans<<endl;
 
-    for(int i=0;i<=((arr1.size()/4)*4);i++)
-    cout << summ;
-
-    return summ;
+    return ans;
 
 }
 

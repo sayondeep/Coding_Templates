@@ -19,7 +19,7 @@ void call_dfs(int i,int p,vector<int> edges[],vector<int>&visited,int &timer,vec
             call_dfs(v,i,edges,visited,timer,disc,low_disc,ans);
             //update lowest discovery due to child having back edge
             low_disc[i] = min(low_disc[i],low_disc[v]);
-            //bridge check---> v saw all option it could have had
+            //bridge check---> v saw all option it could have had and there is no other path
             if(low_disc[v]>disc[i])
             {
                 vector<int> e;

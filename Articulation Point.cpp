@@ -22,7 +22,7 @@ void call_dfs(int i,int p,vector<int> edges[],vector<int>&visited,vector<int>&di
             //update lowest discovery time due to updation of childs lowest discovery time
             low_disc[i]= min(low_disc[i],low_disc[v]);
             //check articulation point
-            if(low_disc[v]>=disc[i] && p != -1)
+            if(low_disc[v]>=disc[i] && p != -1) //p!=-1 for star like graph where node is root then leaves will always T for cond 1
             {
                 ans.insert(i);
             }

@@ -3,4 +3,4 @@ project(Coding_Templates)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Coding_Templates "OA/Amazon/substring score.cpp")
+add_executable(Coding_Templates "OA/Kore.ai/separate the number.cpp")

@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/Coding_Templates/cmake-build-debug/
 
 build cmake_object_order_depends_target_Coding_Templates: phony || CMakeFiles/Coding_Templates.dir
 
-build CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Oracle/Decrypt.cpp || cmake_object_order_depends_target_Coding_Templates
-  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Oracle\Decrypt.cpp.obj.d
+build CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Oracle/Vowel.cpp || cmake_object_order_depends_target_Coding_Templates
+  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Oracle\Vowel.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Coding_Templates.dir
   OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Oracle
@@ -63,7 +63,7 @@ build CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj: CXX_COMPILER__C
 #############################################
 # Link the executable Coding_Templates.exe
 
-build Coding_Templates.exe: CXX_EXECUTABLE_LINKER__Coding_Templates_Debug CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj
+build Coding_Templates.exe: CXX_EXECUTABLE_LINKER__Coding_Templates_Debug CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Coding_Templates.dir

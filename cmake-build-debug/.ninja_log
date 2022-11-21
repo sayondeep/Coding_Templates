@@ -1,7 +1,7 @@
 # ninja log v5
-1	119	6905536651252851	build.ninja	b505b29b1d075f01
+1	119	6906777907291578	build.ninja	b505b29b1d075f01
 4	1228	6899476359631680	CMakeFiles/Coding_Templates.dir/bst_number.cpp.obj	ad942c8acb0d7986
-1582	1694	6905534704848480	Coding_Templates.exe	a7779efcdf29e188
+1572	1671	6905540850394403	Coding_Templates.exe	797366a13f38a2e1
 12	2152	6821254081117751	CMakeFiles/Coding_Templates.dir/Hello_World.cpp.obj	fc6d2555947ed442
 0	1169	6895037388788396	CMakeFiles/Coding_Templates.dir/OA/Amazon/Alexa_temp_change.cpp.obj	9366887203dd3b7d
 4	1203	6827082362915960	CMakeFiles/Coding_Templates.dir/Array/Segment_Tree.cpp.obj	2ae61278b4b902bb
@@ -70,4 +70,21 @@
 3	1128	6905494825009738	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/smallest_common_substring.cpp.obj	16bd314f4dd10a92
 3	1310	6905512432370516	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/separate_the_number.cpp.obj	956475716887c6eb
 0	1568	6905540849395746	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/sum_of_sub_arrays.cpp.obj	45986f15a0614740
-1572	1671	6905540850394403	Coding_Templates.exe	797366a13f38a2e1
+0	1764	6906794055948679	CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj	2af01aed5090d7e2
+1768	2022	6906794058507510	Coding_Templates.exe	9410270eb40e672d
+4	1551	6906794404997770	CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj	2af01aed5090d7e2
+1551	1706	6906794406522021	Coding_Templates.exe	9410270eb40e672d
+3	1581	6906794713916755	CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj	2af01aed5090d7e2
+1581	1729	6906794715380913	Coding_Templates.exe	9410270eb40e672d
+3	2065	6906795028227650	CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj	2af01aed5090d7e2
+2065	2219	6906795029763784	Coding_Templates.exe	9410270eb40e672d
+8	3110	6907024464374372	CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj	2af01aed5090d7e2
+3111	3461	6907024468052681	Coding_Templates.exe	9410270eb40e672d
+18	2252	6907024789549905	CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj	2af01aed5090d7e2
+2253	2545	6907024792551501	Coding_Templates.exe	9410270eb40e672d
+6	2275	6907026939013830	CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj	2af01aed5090d7e2
+2276	2537	6907026941625898	Coding_Templates.exe	9410270eb40e672d
+9	2729	6907027789998045	CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj	2af01aed5090d7e2
+2730	3015	6907027792788722	Coding_Templates.exe	9410270eb40e672d
+13	2548	6907029370090375	CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj	2af01aed5090d7e2
+2548	2871	6907029373303975	Coding_Templates.exe	9410270eb40e672d

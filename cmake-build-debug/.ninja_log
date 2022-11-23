@@ -1,7 +1,7 @@
 # ninja log v5
-1	119	6907031693406470	build.ninja	b505b29b1d075f01
+1	119	6908969210109703	build.ninja	b505b29b1d075f01
 4	1228	6899476359631680	CMakeFiles/Coding_Templates.dir/bst_number.cpp.obj	ad942c8acb0d7986
-2548	2871	6907029373303975	Coding_Templates.exe	9410270eb40e672d
+1745	1948	6907058178255392	Coding_Templates.exe	85831fab9d7cc2e6
 12	2152	6821254081117751	CMakeFiles/Coding_Templates.dir/Hello_World.cpp.obj	fc6d2555947ed442
 0	1169	6895037388788396	CMakeFiles/Coding_Templates.dir/OA/Amazon/Alexa_temp_change.cpp.obj	9366887203dd3b7d
 4	1203	6827082362915960	CMakeFiles/Coding_Templates.dir/Array/Segment_Tree.cpp.obj	2ae61278b4b902bb
@@ -12,6 +12,7 @@
 4	1279	6780714691694013	CMakeFiles/Coding_Templates.dir/Bridge.cpp.obj	397f3496ee7dfe03
 5	128	6779168363148041	CMakeFiles/Coding_Templates.dir/Segment_Tree.cpp.obj	59fa462a099f5e5c
 4	1270	6894665950760717	CMakeFiles/Coding_Templates.dir/OA/Amazon/Prime_video_Sub.cpp.obj	f7dad76ccbea8e76
+14	1744	6907058176205572	CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj	56bcdc3851d9b119
 6	1296	6895351805323113	CMakeFiles/Coding_Templates.dir/OA/BNY_Mellon/Purchase_Optimization.cpp.obj	2be3825f72988b43
 4	1495	6900413834040634	CMakeFiles/Coding_Templates.dir/OA/Razorpay/Airlift.cpp.obj	599ad394144d1edf
 4	1249	6878925612625073	CMakeFiles/Coding_Templates.dir/OA/Navi/Maximum_unity.cpp.obj	d32249b0e70046e7
@@ -71,17 +72,3 @@
 3	1310	6905512432370516	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/separate_the_number.cpp.obj	956475716887c6eb
 0	1568	6905540849395746	CMakeFiles/Coding_Templates.dir/OA/Kore.ai/sum_of_sub_arrays.cpp.obj	45986f15a0614740
 13	2548	6907029370090375	CMakeFiles/Coding_Templates.dir/OA/Oracle/Decrypt.cpp.obj	2af01aed5090d7e2
-0	2448	6907053208584626	CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj	56bcdc3851d9b119
-2453	2620	6907053210228735	Coding_Templates.exe	85831fab9d7cc2e6
-13	2323	6907054516906146	CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj	56bcdc3851d9b119
-2323	2455	6907054518202976	Coding_Templates.exe	85831fab9d7cc2e6
-5	2248	6907055059964455	CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj	56bcdc3851d9b119
-2248	2380	6907055061276499	Coding_Templates.exe	85831fab9d7cc2e6
-5	2082	6907055498339004	CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj	56bcdc3851d9b119
-2083	2212	6907055499606474	Coding_Templates.exe	85831fab9d7cc2e6
-5	1641	6907055996148958	CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj	56bcdc3851d9b119
-1641	1821	6907055997915846	Coding_Templates.exe	85831fab9d7cc2e6
-13	1875	6907057054463351	CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj	56bcdc3851d9b119
-1875	2052	6907057056208373	Coding_Templates.exe	85831fab9d7cc2e6
-14	1744	6907058176205572	CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj	56bcdc3851d9b119
-1745	1948	6907058178255392	Coding_Templates.exe	85831fab9d7cc2e6

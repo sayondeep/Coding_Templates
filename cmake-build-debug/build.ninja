@@ -55,6 +55,48 @@ build CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj: CXX_COMPILER__Cod
   OBJECT_DIR = CMakeFiles\Coding_Templates.dir
   OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Oracle
 
+build CMakeFiles/Coding_Templates.dir/OA/Samsung/Wormhole.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Samsung/Wormhole.cpp || cmake_object_order_depends_target_Coding_Templates
+  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Samsung\Wormhole.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Coding_Templates.dir
+  OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Samsung
+
+build CMakeFiles/Coding_Templates.dir/OA/Samsung/Aggresive_Cows.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Samsung/Aggresive$ Cows.cpp || cmake_object_order_depends_target_Coding_Templates
+  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Samsung\Aggresive_Cows.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Coding_Templates.dir
+  OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Samsung
+
+build CMakeFiles/Coding_Templates.dir/OA/Samsung/Burst_Balloons.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Samsung/Burst$ Balloons.cpp || cmake_object_order_depends_target_Coding_Templates
+  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Samsung\Burst_Balloons.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Coding_Templates.dir
+  OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Samsung
+
+build CMakeFiles/Coding_Templates.dir/OA/Samsung/TSP.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Samsung/TSP.cpp || cmake_object_order_depends_target_Coding_Templates
+  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Samsung\TSP.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Coding_Templates.dir
+  OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Samsung
+
+build CMakeFiles/Coding_Templates.dir/OA/Samsung/Bomb_explosion.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Samsung/Bomb$ explosion.cpp || cmake_object_order_depends_target_Coding_Templates
+  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Samsung\Bomb_explosion.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Coding_Templates.dir
+  OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Samsung
+
+build CMakeFiles/Coding_Templates.dir/OA/Samsung/Maze_.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Samsung/Maze$ .cpp || cmake_object_order_depends_target_Coding_Templates
+  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Samsung\Maze_.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Coding_Templates.dir
+  OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Samsung
+
+build CMakeFiles/Coding_Templates.dir/OA/Samsung/Endoscopy.cpp.obj: CXX_COMPILER__Coding_Templates_Debug D$:/Coding_Templates/OA/Samsung/Endoscopy.cpp || cmake_object_order_depends_target_Coding_Templates
+  DEP_FILE = CMakeFiles\Coding_Templates.dir\OA\Samsung\Endoscopy.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Coding_Templates.dir
+  OBJECT_FILE_DIR = CMakeFiles\Coding_Templates.dir\OA\Samsung
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Coding_Templates
@@ -63,7 +105,7 @@ build CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj: CXX_COMPILER__Cod
 #############################################
 # Link the executable Coding_Templates.exe
 
-build Coding_Templates.exe: CXX_EXECUTABLE_LINKER__Coding_Templates_Debug CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj
+build Coding_Templates.exe: CXX_EXECUTABLE_LINKER__Coding_Templates_Debug CMakeFiles/Coding_Templates.dir/OA/Oracle/Vowel.cpp.obj CMakeFiles/Coding_Templates.dir/OA/Samsung/Wormhole.cpp.obj CMakeFiles/Coding_Templates.dir/OA/Samsung/Aggresive_Cows.cpp.obj CMakeFiles/Coding_Templates.dir/OA/Samsung/Burst_Balloons.cpp.obj CMakeFiles/Coding_Templates.dir/OA/Samsung/TSP.cpp.obj CMakeFiles/Coding_Templates.dir/OA/Samsung/Bomb_explosion.cpp.obj CMakeFiles/Coding_Templates.dir/OA/Samsung/Maze_.cpp.obj CMakeFiles/Coding_Templates.dir/OA/Samsung/Endoscopy.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Coding_Templates.dir
